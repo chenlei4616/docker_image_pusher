@@ -14,6 +14,5 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #node:16
 #zookeeper:3.9.3
 #zookeeper:3.8.4
-dubbo
-nacos
+nacos/nacos-server
 seata
