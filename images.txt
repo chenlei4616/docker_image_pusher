@@ -4,5 +4,8 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-java
-elasticsearch
+openjdk:8
+openjdk:11
+openjdk:17
+elasticsearch:7.6.2
+elasticsearch:8.12.2 
