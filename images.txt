@@ -15,7 +15,7 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #zookeeper:3.9.3
 #zookeeper:3.8.4
 #nacos/nacos-server
-seataio/seata-server
+#seataio/seata-server
 oracle/database
 mcr.microsoft.com/mssql/server
 postgres
