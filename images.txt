@@ -19,4 +19,5 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #mcr.microsoft.com/mssql/server
 #postgres
 #bitnami/kafka
-centos:centos8
+#centos:centos8
+ubuntu:ubuntu24.04
